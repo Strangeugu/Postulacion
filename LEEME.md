@@ -25,3 +25,7 @@ Abre Visual Studio Code.
 Haz clic en "File" en la barra de menú y selecciona "Open Folder".
 Busca y selecciona la carpeta que contiene el proyecto que acabas de descargar y haz clic en "Abrir".
 Ahora puedes ver el proyecto en la barra lateral izquierda de Visual Studio Code y comenzar a trabajar en él.
+
+Una vez que ya esta instalado y andando el proyecto, debemos ingresar un candidato activo, en este caso como solo hay 1 candidato que soy yo en este proyecto, para poder
+seleccionarlo hay que seleccionar la region "Metropolitana de Santiago", Comuna "Puente Alto" y se cargara automaticamente el candidato.
+
